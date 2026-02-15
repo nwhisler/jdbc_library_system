@@ -1,4 +1,4 @@
-# SQL_Example — Library Database (Java + MySQL + XML)
+# jdbc_library_system — Library Database (Java + MySQL + XML)
 
 An academic Java project demonstrating **relational schema design**, **SQL DDL/DML**, and **XML-to-database ingestion** using **JDBC** against a **MySQL** backend. The program builds (and/or refreshes) a small library database (books, authors, publishers, members, borrowing activity, and library inventory), loads activity records from an XML file, and executes a sequence of inserts/updates/deletes consistent with typical library checkout/check-in workflows.
 
